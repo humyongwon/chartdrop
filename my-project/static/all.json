@@ -1,0 +1,88 @@
+{
+  "status": 200,
+  "data": {
+    "pie_data": [
+      {
+        "value": 335,
+        "name": "寄递行业"
+      },
+      {
+        "value": 310,
+        "name": "服装"
+      },
+      {
+        "value": 234,
+        "name": "餐饮 "
+      },
+      {
+        "value": 135,
+        "name": "建材"
+      }
+    ],
+    "bar_data": [
+      5,
+      20,
+      36,
+      10,
+      10,
+      20
+    ],
+    "bar_xAxis": [
+      "衬衫",
+      "羊毛衫",
+      "雪纺衫",
+      "裤子",
+      "高跟鞋",
+      "袜子"
+    ],
+    "line_data": [
+      150,
+      230,
+      224,
+      218,
+      135,
+      147,
+      260
+    ],
+    "line_xAxis": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "tableData": [
+      {
+        "key": "1",
+        "name": "John Brown",
+        "age": 32,
+        "address": "New York No. 1 Lake Park",
+        "tags": [
+          "nice",
+          "developer"
+        ]
+      },
+      {
+        "key": "2",
+        "name": "Jim Green",
+        "age": 42,
+        "address": "London No. 1 Lake Park",
+        "tags": [
+          "loser"
+        ]
+      },
+      {
+        "key": "3",
+        "name": "Joe Black",
+        "age": 32,
+        "address": "Sidney No. 1 Lake Park",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      }
+    ]
+  }
+}
