@@ -1,6 +1,7 @@
 # chartdrop
 
 demo名称：Echarts下钻；
+框架：vue
 
 场景概述：
 初始加载第一个饼图;
