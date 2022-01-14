@@ -254,7 +254,6 @@ export default {
     getBar(clickParams) {
       this.chart.clear();
       let that = this;
-      // if (clickParams.name == "服装") {
       axios
         .get("../../static/all.json", clickParams)
         .then(function (res) {
@@ -271,7 +270,6 @@ export default {
     getLine(clickParams) {
       this.chart.clear();
       let that = this;
-      // if (clickParams.name !== "服装") {
       axios
         .get("../../static/all.json", clickParams)
         .then(function (res) {
@@ -282,7 +280,6 @@ export default {
         .catch(function (error) {
           console.log(error);
         });
-      // }
     },
 
     initChart() {
